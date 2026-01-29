@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer who treats code as a business tool, not just to write syntax.<br><br>What I bring beyond code: I talk to customers, read the data, and make technical decisions that move metrics. In e-commerce and fintech, I learned that performance, security, and UX aren't nice-to-haves—they're what separates products that convert from ones that don't.<br>Currently working at Wootic and building my own product PartySpot in my free time.<br><br>Looking for: Remote roles at startups where I can own features end-to-end and learn from smart people.<br>
+Software Developer who treats code as a business tool, not just to write syntax.<br><br>What I bring beyond code: I talk to customers, read the data, and make technical decisions that move metrics. In e-commerce and fintech, I learned that performance, security, and UX aren't nice-to-haves—they're what separates products that convert from ones that don't.<br>Currently working at Wootic and building my own product PartySpot in my free time.<br>
 
 
 ## 🌐 Socials:
